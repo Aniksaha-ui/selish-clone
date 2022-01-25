@@ -9,4 +9,35 @@
     font-size: 18px;
 }
 
+.heading-first-custom-size{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 /* utilites end */
+
+/* card */
+
+.card-title-color{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 4%;
+    font-weight: 500;
+    color: rgb(21, 3, 54);
+   
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+
+@media only screen and (max-width:576px) {
+    
+    .heading-first-custom-size{
+        font-size: 20px;
+    }
+  
+}
+
+
